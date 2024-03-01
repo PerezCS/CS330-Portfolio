@@ -1,3 +1,6 @@
+
+![PROJECT PREVIEW](https://github.com/PerezCS/CS330-Portfolio/assets/137012190/19b944f7-b122-4ecf-b507-c7baf88c7c93)
+
 ### How do I approach designing software?
 
 - **New Design Skills:**
@@ -30,4 +33,3 @@ Computational graphics and visualizations have given me an improved understandin
 - **Professional Pathway:**
 The skills developed through this project prepare me for roles in software development, especially the more graphics-intensive applications like scientific/medical research and simulations, where visual representations of data can be crucial for understanding complex tasks.
 
-![Image](https://github.com/users/PerezCS/projects/1/assets/137012190/f1b7e7f0-7ca3-400c-94f0-12814df19eec)
